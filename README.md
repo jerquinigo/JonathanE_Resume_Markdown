@@ -1,6 +1,6 @@
 
 <div style="font-size:3em" align="center">Jonathan Erquinigo</div>
-<div style="font-size: 1.5em" align="center">Email: jonathanerquinigo@pursuit.org | Phone: 347-204-5471 | Portfolio Site: <a href= "https://jonathanerquinigo.com"> https://jonathanerquinigo.com </a></div>
+
 
 _ _ _
 
